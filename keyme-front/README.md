@@ -2,13 +2,13 @@
 
 ## Components:
 
-### Products -
+### Products
 To display keys data, add a particular key design to cart and checkout cart, also created pagination for the keys with 9 keys showing up on each page.
 
 ### Cart
 To show items added to the cart, go back to products if user wants to modify the order and go to the order form if cart items are correct.
 
-### Order - 
+### Order
 To add shipping information in the order form and confirm order after shipping details are verified in the modal. After order confirmed in the modal, a snackbar like alert box appears at the bottom of the page and app goes to the products page.
 
 ## Design:
